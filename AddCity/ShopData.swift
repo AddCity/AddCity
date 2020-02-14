@@ -6,6 +6,10 @@
 //  Copyright © 2020 AddCity. All rights reserved.
 //
 
+
+//うんちぶりぶり
+
+
 import UIKit
 import SwiftUI
 
