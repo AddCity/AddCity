@@ -16,6 +16,7 @@
 		105B4A0123DD99AC00E8CE07 /* ShopList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105B4A0023DD99AC00E8CE07 /* ShopList.swift */; };
 		105B4A0323DDF64700E8CE07 /* ShopRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105B4A0223DDF64700E8CE07 /* ShopRow.swift */; };
 		105B4A0523DDFBB500E8CE07 /* ShopData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105B4A0423DDFBB500E8CE07 /* ShopData.swift */; };
+		10A7455F23F6651600AF76C4 /* Test1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A7455E23F6651600AF76C4 /* Test1.swift */; };
 		10ED816C23E3DA1F00B2F075 /* AddCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED816B23E3DA1F00B2F075 /* AddCity.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		105B4A0023DD99AC00E8CE07 /* ShopList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopList.swift; sourceTree = "<group>"; };
 		105B4A0223DDF64700E8CE07 /* ShopRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopRow.swift; sourceTree = "<group>"; };
 		105B4A0423DDFBB500E8CE07 /* ShopData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopData.swift; sourceTree = "<group>"; };
+		10A7455E23F6651600AF76C4 /* Test1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1.swift; sourceTree = "<group>"; };
 		10ED816B23E3DA1F00B2F075 /* AddCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 				105B4A0423DDFBB500E8CE07 /* ShopData.swift */,
 				105B4A0023DD99AC00E8CE07 /* ShopList.swift */,
 				105B4A0223DDF64700E8CE07 /* ShopRow.swift */,
+				10A7455E23F6651600AF76C4 /* Test1.swift */,
 				105B49F023DD984600E8CE07 /* Assets.xcassets */,
 				105B49F523DD984600E8CE07 /* LaunchScreen.storyboard */,
 				105B49F823DD984600E8CE07 /* Info.plist */,
@@ -170,6 +173,7 @@
 				105B49EB23DD984300E8CE07 /* AppDelegate.swift in Sources */,
 				105B49ED23DD984300E8CE07 /* SceneDelegate.swift in Sources */,
 				10ED816C23E3DA1F00B2F075 /* AddCity.swift in Sources */,
+				10A7455F23F6651600AF76C4 /* Test1.swift in Sources */,
 				105B4A0523DDFBB500E8CE07 /* ShopData.swift in Sources */,
 				105B4A0323DDF64700E8CE07 /* ShopRow.swift in Sources */,
 				105B4A0123DD99AC00E8CE07 /* ShopList.swift in Sources */,
